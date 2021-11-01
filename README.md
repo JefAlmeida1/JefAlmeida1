@@ -9,7 +9,7 @@ Atualmente estou estudando e práticando bastante para conseguir trabalhar como 
 <div align="center">
   <a href="https://github.com/JefAlmeida1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefAlmeida1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefAlmeida1&layout=compact&langs_count=7&theme=dark"/>
+  <span><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefAlmeida1&layout=compact&langs_count=7&theme=dark"/></span>
 </div>
   
 <p> 
