@@ -3,7 +3,7 @@ Aqui você pode acessar alguns repositórios para usar como base de estudos ou p
 
 Atualmente estou estudando e práticando bastante para conseguir trabalhar como front-end.
 
-:computer: Futuro Frot end
+:computer: Futuro Front end
 <p>:book: Estudando Analise e Desenvolvimento de Sistema</p>
 
 <div align="center">
