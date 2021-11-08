@@ -6,6 +6,7 @@ Atualmente estou estudando e práticando bastante para conseguir trabalhar como 
 :computer: Futuro Front end
 <p>:book: Estudando Analise e Desenvolvimento de Sistema</p>
 <p> Acessem o meu site básico: https://jefalmeida1.github.io/Portfolio/ </p>
+<p> Acessem a minha pagina de projetos: https://jefalmeida1.github.io/Portfolio/meus%20projetos/projetos.html <p>
 
 <div align="center">
   <a href="https://github.com/JefAlmeida1">
