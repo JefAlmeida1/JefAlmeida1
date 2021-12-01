@@ -1,7 +1,7 @@
 ### Olá mundo! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-Aqui você pode acessar alguns repositórios para usar como base de estudos ou projetos.
+Aqui você pode acessar alguns repositórios para usar como base de estudos ou pegar como base para futuros projetos.
 
-Atualmente estou estudando e práticando bastante para conseguir trabalhar como front-end.
+
 
 :computer: Front-End, Back-End or FullStak
 <p>:book: Estudando Analise e Desenvolvimento de Sistema</p>
