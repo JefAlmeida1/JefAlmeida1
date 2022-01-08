@@ -5,8 +5,7 @@ Aqui você pode acessar alguns repositórios para usar como base de estudos ou p
 
 :computer: Front-End, Back-End or FullStak
 <p>:book: Formado Analise e Desenvolvimento de Sistema</p>
-<p> Acessem o meu site básico: https://jefalmeida1.github.io/Portfolio/ </p>
-<p> Acessem a minha pagina de projetos: https://jefalmeida1.github.io/Portfolio/meus%20projetos/projetos.html <p>
+<p> Acessem o meu portfolio: https://jefalmeida1.github.io/Oportifolio/ <p>
 
 <div align="center">
   <a href="https://github.com/JefAlmeida1">
